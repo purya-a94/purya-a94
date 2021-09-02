@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @purya-a94. My actual name is Poorya; the different spelling is just a thing from the past that's stuck and no, "poorya" was not taken, I did this on purpose! 🤷🏻‍♂️
+- 👋 Hi, I’m @purya-a94 (Poorya).
 - 🌱 I’m constantly improving myself on the frontend ecosystem with a focus on JavaScript.
 - 💞️ I’m looking to collaborate on open-source projects to the best of my abilities.
 -	📫 How to reach me:  

@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @purya-a94 (Poorya).
-- 🌱 Lately, I've been constantly improving myself on the frontend ecosystem with a focus on JavaScript and plan to do so for the foreseeable future.
+- 🌱 Lately, I've been constantly improving myself on the frontend ecosystem with a focus on React and plan to do so  
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for the foreseeable future.
 - 💞️ I’m looking to collaborate on open-source projects to the best of my abilities.
 -	📫 How to reach me:  
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Email:		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;purya.alaei@gmail.com  

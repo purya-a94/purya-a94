@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @purya-a94 (Poorya).
+- 👋 Hi, I’m @purya-a94 (Pourya).
 - 🌱 Lately, I've been constantly improving myself on the frontend ecosystem with a focus on React and plan to do so  
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for the foreseeable future.
 - 💞️ I’m looking to collaborate on open-source projects to the best of my abilities.
